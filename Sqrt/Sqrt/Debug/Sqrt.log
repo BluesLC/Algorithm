@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\code\sqrt\sqrt\main.cpp(9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\sqrt\sqrt\main.cpp(10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Sqrt.vcxproj -> D:\code\Sqrt\Debug\Sqrt.exe
